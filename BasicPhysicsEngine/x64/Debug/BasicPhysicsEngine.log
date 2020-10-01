@@ -1,0 +1,19 @@
+﻿  Window.cpp
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\gjkalgorithm\basicphysicsengine\window.h(5): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Vector.cpp
+  UILabel.cpp
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\gjkalgorithm\basicphysicsengine\uilabel.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Timer.cpp
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\gjkalgorithm\basicphysicsengine\timer.cpp(1): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MMath.cpp
+  main.cpp
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\gjkalgorithm\basicphysicsengine\gamemanager.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  ScenePhysics.cpp
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\gjkalgorithm\basicphysicsengine\scene.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Body.cpp
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\gjkalgorithm\basicphysicsengine\body.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameManager.cpp
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\gjkalgorithm\basicphysicsengine\gamemanager.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Collider.cpp
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\gjkalgorithm\basicphysicsengine\body.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...

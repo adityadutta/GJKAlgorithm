@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BasicPhysicsEngine.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ScenePhysics.cpp
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\basicphysicsengine\basicphysicsengine\collider.h(35): warning C4018: '<': signed/unsigned mismatch
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\basicphysicsengine\basicphysicsengine\collider.h(39): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\basicphysicsengine\basicphysicsengine\collider.h(59): warning C4018: '<': signed/unsigned mismatch
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\basicphysicsengine\basicphysicsengine\scenephysics.cpp(134): warning C4018: '<': signed/unsigned mismatch
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\basicphysicsengine\basicphysicsengine\scenephysics.cpp(137): warning C4018: '<': signed/unsigned mismatch
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\basicphysicsengine\basicphysicsengine\scenephysics.cpp(145): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\basicphysicsengine\basicphysicsengine\scenephysics.cpp(160): warning C4018: '<': signed/unsigned mismatch
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\basicphysicsengine\basicphysicsengine\scenephysics.cpp(165): warning C4018: '<': signed/unsigned mismatch
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\basicphysicsengine\basicphysicsengine\scenephysics.cpp(170): warning C4018: '<': signed/unsigned mismatch
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\basicphysicsengine\basicphysicsengine\scenephysics.cpp(175): warning C4018: '<': signed/unsigned mismatch
+d:\humber\_humber_winter_2020\game dynamics 3 - game-256-0na\basicphysicsengine\basicphysicsengine\scenephysics.cpp(180): warning C4018: '<': signed/unsigned mismatch
+  BasicPhysicsEngine.vcxproj -> D:\HUMBER\_Humber_Winter_2020\Game Dynamics 3 - GAME-256-0NA\BasicPhysicsEngine\Debug\UIProject.exe
+  BasicPhysicsEngine.vcxproj -> D:\HUMBER\_Humber_Winter_2020\Game Dynamics 3 - GAME-256-0NA\BasicPhysicsEngine\Debug\UIProject.pdb (Partial PDB)
